@@ -1,4 +1,4 @@
-# Electron + Polymer Starter Kit
+# Electron + Polymer Starter Kit (DEPRECATED)
 A copy of [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit/), running inside [Electron](https://github.com/atom/electron).
 
 ```bash
